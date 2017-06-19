@@ -45,7 +45,7 @@ public class JDBCMySqlConfigRepository implements URLConfigRepository{
 
 	public JDBCMySqlConfigRepository() {
 		
-		baseConnector = new BaseConnector("jdbc:mysql://localhost/testdb?","postgres","admin");
+		baseConnector = new BaseConnector("jdbc:mysql://localhost/testdb?","postgres","Admin123");
 		
 		fillList();
 	}
