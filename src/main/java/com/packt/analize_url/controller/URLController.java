@@ -73,7 +73,7 @@ public class URLController {
 			model.addAttribute("play",0);
 		}
 		
-		printDestinstion.printMonitoringInfo(urlConfigService.getAllURLConfigs(), resultMonitoringService.getAllResults());
+		//printDestinstion.printMonitoringInfo(urlConfigService.getAllURLConfigs(), resultMonitoringService.getAllResults());
 		
 		return "main";
 	}

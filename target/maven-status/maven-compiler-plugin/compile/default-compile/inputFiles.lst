@@ -8,6 +8,7 @@ C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\co
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\domain\configpart\ResponseLength.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\observ\Observer.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\domain\repository\impl\InMemoryMonitResultRepository.java
+C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\property\PropertyConnector.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\hibernate\dao\URLConfigDAO.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\jdbc\BaseConnector.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\observ\Subject.java
@@ -23,7 +24,6 @@ C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\co
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\domain\repository\impl\InMemoryProgramConfigRepository.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\domain\resultpart\ResultStatus.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\service\ResultMonitoringService.java
-C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\controller\TestProperty.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\service\ProgramConfigservice.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\domain\repository\ResultMonitoringRepository.java
 C:\Users\User\Documents\workspace-sts-3.8.4.RELEASE\analize_url\src\main\java\com\packt\analize_url\service\impl\ProgramConfigserviceImpl.java

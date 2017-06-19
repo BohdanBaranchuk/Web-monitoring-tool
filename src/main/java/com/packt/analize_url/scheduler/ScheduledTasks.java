@@ -72,6 +72,8 @@ public class ScheduledTasks implements Subject{
 						  		if(urlConfig.isMonitored()){
 						  			monitoringResultMain = stepRead(urlConfig);
 						  			notifyObservers();
+						  			System.out.println("Request URL: " + urlConfig);
+						  			System.out.println("Get new monitoring result: " + monitoringResultMain);
 						  		}
 						  	} catch(Exception ex) {
 						  		ex.printStackTrace();
